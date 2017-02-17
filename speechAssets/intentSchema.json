@@ -1,0 +1,17 @@
+{
+   "intents": [
+      {
+         "intent": "GetItemLevel",
+         "slots": [
+            {
+               "name": "Character",
+               "type": "LIST_OF_CHARS"
+            },
+            {
+               "name": "Realm",
+               "type": "LIST_OF_REALMS"
+            }
+         ]
+      }
+   ]
+}

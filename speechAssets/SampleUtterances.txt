@@ -1,0 +1,3 @@
+GetItemLevel	wie ist das item level von {Character}
+GetItemLevel	wie ist das item level von {Character} auf {Realm}
+GetItemLevel	wie ist mein item level

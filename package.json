@@ -1,0 +1,30 @@
+{
+  "name": "alexa-battlenet-queries",
+  "version": "1.0.0",
+  "description": "Query Alexa everything around the Battle.NET, especially World of Warcraft.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "docs": "bin/docgen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voydz/alexa-battlenet-queries.git"
+  },
+  "keywords": [
+    "alexa",
+    "blizzard",
+    "battlenet",
+    "community",
+    "games",
+    "world-of-warcraft"
+  ],
+  "author": "voydz",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^3.1.0",
+    "axios": "^0.15.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.1"
+  }
+}
